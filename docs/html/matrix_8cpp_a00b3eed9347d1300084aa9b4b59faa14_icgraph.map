@@ -1,0 +1,13 @@
+<map id="create_matrix" name="create_matrix">
+<area shape="rect" id="Node000001" title="Создание матрицы заданного размера." alt="" coords="299,57,411,85"/>
+<area shape="rect" id="Node000002" href="$matrix_8cpp.html#a22ddff2afbafb442af6b304fc45da953" title="Сложение двух матриц." alt="" coords="132,5,227,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,53,227,36,228,31,294,52"/>
+<area shape="rect" id="Node000004" href="$matrix_8cpp.html#ab25adc6286a85175b01f1545f3e8fbd4" title="Создание матрицы из одномерного массива." alt="" coords="108,57,251,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,72,252,74,251,69,286,71"/>
+<area shape="rect" id="Node000005" href="$matrix_8cpp.html#acb87434bec1e8f89c319be6fd81a131d" title="Умножение двух матриц." alt="" coords="117,109,242,137"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="294,90,229,111,228,106,288,90"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,57,60,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,41,61,64,59,59,125,36"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="90,73,61,74,59,69,94,70"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="122,105,60,83,61,78,126,102"/>
+</map>
